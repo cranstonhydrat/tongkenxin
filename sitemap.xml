@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tongkenxin.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tongkenxin.com/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tongkenxin.com/team.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tongkenxin.com/journal.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tongkenxin.com/contact.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tongkenxin.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://tongkenxin.com/terms.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+</urlset>
